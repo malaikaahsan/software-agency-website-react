@@ -45,11 +45,27 @@ To get a local copy up and running:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/malaikaahsan/software-agency-website-react.git](https://github.com/malaikaahsan/software-agency-website-react.git)
-   Navigate into the project directory:
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd software-agency-website-react
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and visit `http://localhost:5173`.
 
-cd software-agency-website-react
-Install the dependencies:
-npm install
-Start the development server:
-npm run dev
-Open your browser and visit http://localhost:5173.
+
+
+## 👨‍💻 Author
+
+**Malaika Ahsan**
+* GitHub: [@malaikaahsan](https://github.com/malaikaahsan)
+
+---
+*This is a practice project created for learning and portfolio demonstration purposes.*
